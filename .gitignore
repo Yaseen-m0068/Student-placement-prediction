@@ -1,0 +1,36 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# IDE/editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Local model/cache files (optional if you want to keep trained artifacts tracked)
+# Uncomment if you do not want to commit generated model files
+# *.pkl
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+Thumbs.db
